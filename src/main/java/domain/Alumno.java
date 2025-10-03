@@ -8,8 +8,7 @@
 *   Programador: Leonardo Zaid Moreno Jimenez
 *   Fecha: 02/Octubre/2025
 *
-*/
-
+ */
 package domain;
 
 /**
@@ -24,6 +23,10 @@ public class Alumno {
     public Alumno(String numControl, String nombre) {
         this.numControl = numControl;
         this.nombre = nombre;
+    }
+
+    public Alumno() {
+
     }
 
     public String getNumControl() {

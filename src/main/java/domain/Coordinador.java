@@ -24,6 +24,10 @@ public class Coordinador {
         this.nombre = nombre;
         this.area = area;
     }
+    
+    public Coordinador(){
+        
+    }
 
     public String getNombre() {
         return nombre;

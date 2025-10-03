@@ -24,6 +24,10 @@ public class Portafolio {
         this.id = id;
         this.descripcion = descripcion;
     }
+    
+    public Portafolio(){
+        
+    }
 
     public int getId() {
         return id;

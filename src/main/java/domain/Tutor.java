@@ -21,6 +21,10 @@ public class Tutor {
         this.nombre = nombre;
     }
 
+    public Tutor(){
+        
+    }
+    
     public int getId() {
         return id;
     }

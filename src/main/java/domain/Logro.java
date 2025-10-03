@@ -26,6 +26,10 @@ public class Logro {
         this.descripcion = descripcion;
         this.categoria = categoria;
     }
+    
+    public Logro(){
+        
+    }
 
     public int getId() {
         return id;
