@@ -12,10 +12,6 @@
 
 package domain;
 
-/**
- *
- * @author TICS03
- */
 public class Tutor {
     private int id;
     private String nombre;
