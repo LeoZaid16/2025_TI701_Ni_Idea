@@ -3,7 +3,7 @@
 *   ITESS-TICS TInvestigación 1
 *   Agosto - Diciembre 2025
 *   Proyecto: Ni idea
-*   Clase Logro: Representa las habilidades adquiridas del alumno, mediante evidencias.
+*   Clase Tutor: Persona interesada en el rendimiendo academico del alumno.
 *   Docente: FJMP
 *   Programador: Leonardo Zaid Moreno Jimenez
 *   Fecha: 02/Octubre/2025
