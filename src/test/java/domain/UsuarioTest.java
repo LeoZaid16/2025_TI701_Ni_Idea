@@ -1,3 +1,15 @@
+/*
+*
+*   ITESS-TICS TInvestigación 1
+*   Agosto - Diciembre 2025
+*   Proyecto: Ni idea
+*   Clase UsuarioTest: Clase test de la clase Usuario, utilizando junit.
+*   Docente: FJMP
+*   Programador: Leonardo Zaid Moreno Jimenez
+*   Fecha: 02/Octubre/2025
+*
+ */
+
 package domain;
 
 import static org.junit.jupiter.api.Assertions.*;
