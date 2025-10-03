@@ -8,8 +8,7 @@
 *   Programador: Leonardo Zaid Moreno Jimenez
 *   Fecha: 02/Octubre/2025
 *
-*/
-
+ */
 package domain;
 
 /**
@@ -17,6 +16,7 @@ package domain;
  * @author TICS03
  */
 public class Usuario {
+
     private String username;
     private String password;
     private String correo;
@@ -25,6 +25,10 @@ public class Usuario {
         this.username = username;
         this.password = password;
         this.correo = correo;
+    }
+
+    public Usuario() {
+        // Constructor vacío para pruebas o frameworks
     }
 
     public String getUsername() {
@@ -50,6 +54,5 @@ public class Usuario {
     public void setCorreo(String correo) {
         this.correo = correo;
     }
-    
-    
+
 }
